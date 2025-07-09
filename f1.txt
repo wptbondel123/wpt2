@@ -1,0 +1,4 @@
+list1=["hello",1,"world",2]
+list2=["computer science"]
+print(list1)
+print(list2)
